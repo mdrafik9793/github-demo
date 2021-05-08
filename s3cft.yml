@@ -9,3 +9,6 @@ Outputs:
   BucketName:
     Value: !Ref 'S3Bucket'
     Description: Name of the sample Amazon S3 bucket.
+  BucketName1:
+    Value: !Ref 'S3Bucket1'
+    Description: Name of the sample Amazon S3 bucket1.
